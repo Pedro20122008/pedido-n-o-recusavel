@@ -1,2 +1,2 @@
 # pedido-nao-recusavel
-esse é um pedido ivertido onde é impossivel recusar
+esse é um pedido divertido onde é impossivel recusar
